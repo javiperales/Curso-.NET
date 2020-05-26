@@ -1,0 +1,7 @@
+C:\Users\javip\source\repos\EjercicioClases\EjercicioClases\obj\Debug\EjercicioClases.csprojAssemblyReference.cache
+C:\Users\javip\source\repos\EjercicioClases\EjercicioClases\obj\Debug\EjercicioClases.csproj.CoreCompileInputs.cache
+C:\Users\javip\source\repos\EjercicioClases\EjercicioClases\bin\Debug\EjercicioClases.exe.config
+C:\Users\javip\source\repos\EjercicioClases\EjercicioClases\bin\Debug\EjercicioClases.exe
+C:\Users\javip\source\repos\EjercicioClases\EjercicioClases\bin\Debug\EjercicioClases.pdb
+C:\Users\javip\source\repos\EjercicioClases\EjercicioClases\obj\Debug\EjercicioClases.exe
+C:\Users\javip\source\repos\EjercicioClases\EjercicioClases\obj\Debug\EjercicioClases.pdb
