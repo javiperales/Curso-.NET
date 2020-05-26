@@ -1,0 +1,7 @@
+C:\Users\javip\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\javip\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\javip\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\javip\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\javip\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\javip\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\javip\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
