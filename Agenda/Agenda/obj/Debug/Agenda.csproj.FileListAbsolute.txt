@@ -1,0 +1,7 @@
+C:\Users\javip\source\repos\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\javip\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\javip\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\javip\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\javip\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\javip\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\javip\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
